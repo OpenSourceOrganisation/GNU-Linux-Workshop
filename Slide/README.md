@@ -1,6 +1,6 @@
 # An Introduction to Linux and its Commands
 
-This presentation has been made by the executives of CSEA (2013-17 batch). The contributors are [Piyush Bhopalka](http://github.com/pbhopalka), [Simsarul Haq](http://github.com/simsarulhaqv), [Prabhav Adhikari](http://github.com/prabhavad), [Aashish Satyajith](http://github.com/aashishsatya), [Shrimadhav U K](http://github.com/spechide).
+The contributors of this project are [Piyush Bhopalka](http://github.com/pbhopalka), [Simsarul Haq](http://github.com/simsarulhaqv), [Prabhav Adhikari](http://github.com/prabhavad), [Aashish Satyajith](http://github.com/aashishsatya), [Shrimadhav U K](http://github.com/spechide).
 
 # Basic Agenda of the Presentation
 
