@@ -1,7 +1,7 @@
 
 # Links
 
-[Introduction to Linux PDF](http://athena.nitc.ac.in/~muhammedyazar_bcs10/Material.pdf)
+[Introduction to Linux PDF](http://www.tldp.org/LDP/intro-linux/intro-linux.pdf)
 
 [FOSSCell, NITC](https://github.com/fosscell/bashworkshop/tree/master/Scripts)
 
